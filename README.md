@@ -12,6 +12,7 @@
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
+| [ClinicPulse](https://github.com/roshan-p/ClinicPulse) | TS, React, RAG, OpenAI, LINE API | AI clinic ops — bilingual Thai/English assistant, CRM pipeline, omnichannel intake |
 | [SupportHub](https://github.com/roshan-p/supporthub) | TS, RAG, OpenAI, SQLite | Ingest tickets/docs/Slack → grounded answers with citations + recurring issue detection |
 | [MergeGuard](https://github.com/roshan-p/MergeGuard) | TS, OpenAI, Octokit, SQLite | AI reviews PRs on open/update, posts inline comments by severity |
 | [AI Insight Hub](https://github.com/roshan-p/ai-insight-hub) | Next.js, NestJS, OpenAI | Text analysis, document Q&A, and tone rewrite with optional demo mode |
