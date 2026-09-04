@@ -30,6 +30,7 @@
 | [RunbookKit](https://github.com/roshan-p/RunbookKit) | TS, Express, YAML engine | Go-live runbooks with HTTP steps, manual FDE gates, and audit log |
 | [HandoffKit](https://github.com/roshan-p/HandoffKit) | TS, Express | Customer handoff docs from FieldKit + RunbookKit reports (HTML/PDF-ready) |
 | [On-Prem Ops Stack](https://github.com/roshan-p/onprem-ops-stack) | Docker, Nginx, Postgres, Grafana | Self-hosted on-prem stack with backups, monitoring, and health checks |
+| [KubePulse](https://github.com/roshan-p/KubePulse) | TS, Kubernetes, CLI | Scan K8s manifests before apply — security, probes, readiness scoring |
 
 `YAML` · `CI/CD` · `Docker` · `Health Checks` · `Customer Handoff`
 
