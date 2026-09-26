@@ -45,6 +45,7 @@
 | [Pollinate](https://github.com/roshan-p/Pollinate) | Kotlin, Ktor, Clean Architecture | Collaborative polling API with domain-enforced voting rules |
 | [HabitLoop Mobile](https://github.com/roshan-p/habitloop-mobile) | React Native, Expo, TypeScript | Cross-platform habit tracker with streaks and offline storage |
 | [WebSec Playground](https://github.com/roshan-p/websec-playground) | Next.js, Go, Gin | Interactive security labs — XSS, auth, headers, rate limiting |
+| [YouTube Channel MP3 Downloader](https://github.com/roshan-p/youtube-channel-mp3-downloader) | Node.js, yt-dlp, ffmpeg, SSE | Local web UI to archive channel audio to MP3 with live job logs |
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `NestJS` · `GraphQL` · `REST` · `Docker`
 
